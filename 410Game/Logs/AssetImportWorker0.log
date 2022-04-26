@@ -203,3 +203,9 @@ Received Import Request.
   path: Assets/Materials/StartingGround.mat
   artifactKey: Guid(b3e893259f00344c0b0e9dae0d46de13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/StartingGround.mat using Guid(b3e893259f00344c0b0e9dae0d46de13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7016f49f4bb76eb9d3dfc7238f17c9f') in 0.017557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 840.762687 seconds.
+  path: Assets/Materials/Platform.mat
+  artifactKey: Guid(0f88bb4178793e048ba57357ce6e407f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platform.mat using Guid(0f88bb4178793e048ba57357ce6e407f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76d311561fbbeb987319f7ac30a7bb9') in 0.370423 seconds 

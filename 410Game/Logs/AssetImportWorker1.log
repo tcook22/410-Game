@@ -179,3 +179,15 @@ Received Import Request.
   path: Assets/Tree_Textures/normal_specular.png
   artifactKey: Guid(63e30f6826f63154d8a27bd2b800ecf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Tree_Textures/normal_specular.png using Guid(63e30f6826f63154d8a27bd2b800ecf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4f1995f489414dd2d5e5e8e0067d34') in 1.608098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1683.795295 seconds.
+  path: Assets/Materials/Player.mat
+  artifactKey: Guid(6ec5e1d70c3ab4c92854e73da591152d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Player.mat using Guid(6ec5e1d70c3ab4c92854e73da591152d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5864585471a8888f971b783bca130675') in 0.058956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Materials/StartingGround.mat
+  artifactKey: Guid(b3e893259f00344c0b0e9dae0d46de13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/StartingGround.mat using Guid(b3e893259f00344c0b0e9dae0d46de13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607a1af42180451df1366472baeb070d') in 0.011195 seconds 
